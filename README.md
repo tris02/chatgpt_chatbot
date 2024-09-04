@@ -1,6 +1,6 @@
 # ChatGPT Chatbot
 
-This is a simple chatbot project using OpenAI's GPT-3.5-Turbo model. The chatbot interacts with users via a web interface. Built with Node.js and Express.js.
+This is a simple interactive chatbot using OpenAI's GPT-3.5-Turbo model. The chatbot interacts with users via a web interface. Built with Node.js and Express.js.
 
 ## Features
 - Real-time chatbot interactions
