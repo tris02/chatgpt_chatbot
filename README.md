@@ -15,6 +15,7 @@ This is a simple chatbot project using OpenAI's GPT-3.5-Turbo model. The chatbot
 
 ## File structure
 
+```bash
 chatgpt_chatbot/
 │
 ├── .env                 # Stores your OpenAI API key
