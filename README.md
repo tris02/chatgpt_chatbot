@@ -52,7 +52,7 @@ chatgpt_chatbot/
    ```
 
 6. Set Up Environment Variables.
-   You will need to edit the .env file in the root of the project to store your OpenAI API key.
+   You will need to edit the `.env` file in the root of the project to store your OpenAI API key.
 
 8. Start the Server.
 
